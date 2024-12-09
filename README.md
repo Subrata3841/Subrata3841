@@ -61,8 +61,9 @@
   </tr>
 </table>
 <br />
+<h3 align="left">GitHub Contributions:</h3>
+<img src="https://github.com/Subrata3841/Subrata3841/blob/output/github-snake-dark.svg" alt="snake svg" />
 <!--Contact Section--> 
-
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
