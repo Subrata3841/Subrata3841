@@ -56,7 +56,7 @@
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/subrata3841">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrata3841&theme=black" alt="subrata3841" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrata3841&" alt="subrata3841" />
         </a>
       </p>
     </td>
