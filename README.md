@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-    <img src="./Subratamondal.gif" alt="Banner Image" width="100%" height="300px"/>
+    <img src="./Subratamondal.gif" alt="Banner Image" width="100%" height="250px"/>
   </p>
   
 <h1 align="center">Hi 👋, I'M SUBRATA</h1>
