@@ -2,8 +2,10 @@
 <p align="center">
     <img src="./Subratamondal.gif" alt="Banner Image" width="100%" height="250px"/>
   </p>
-  
-<h1 align="center">Hi 👋, I'M SUBRATA</h1>
+
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SUBRATA+MONDAL!;" />
+</h1>
 <h3 align="center">An enthusiastic Software Engineer dedicated to crafting innovative solutions, hailing from the heart of INDIA</h3>
 <img align="right" alt="coding" width="400" src="./coding.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=subrata3841&label=Profile%20views&color=0e75b6&style=flat" alt="subrata3841" /> </p>
