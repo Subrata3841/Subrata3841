@@ -5,8 +5,6 @@
 <img align="right" alt="coding" width="400" src="./coding.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=subrata3841&label=Profile%20views&color=0e7bc1&style=flat" alt="subrata3841" /> </p>
 
-<p align="left"> <a href="https://twitter.com/subrata29544855" target="blank"><img src="https://img.shields.io/twitter/follow/subrata29544855?logo=twitter&style=for-the-badge" alt="subrata29544855" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Subrata3841](https://github.com/Subrata3841)
 
 - 📫 How to reach me **subratamondal3841@gmail.com**
