@@ -28,7 +28,7 @@
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/subrata3841">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata3841&show_icons=true&locale=en&layout=compact" alt="subrata3841" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata3841&show_icons=true&locale=en&layout=compact&theme=algolia" alt="subrata3841" />
         </a>
       </p>
     </td>
@@ -36,7 +36,7 @@
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/subrata3841">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=subrata3841&show_icons=true&locale=en" alt="subrata3841" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=subrata3841&show_icons=true&locale=en&theme=algolia" alt="subrata3841" />
         </a>
       </p>
     </td>
