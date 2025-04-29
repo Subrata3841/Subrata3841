@@ -67,9 +67,9 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50" alt="subrata-mondal-80254a24a" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://fb.com/subrata mondal" target="_blank">
+<!--<a href="https://fb.com/subrata mondal" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" height="50" alt="subrata mondal" style="margin-bottom: 5px;" />
-</a>
+</a>-->
 
 <a href="https://instagram.com/im__subrata21" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" height="50" alt="im__subrata21" style="margin-bottom: 5px;" />
