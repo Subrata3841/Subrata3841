@@ -55,6 +55,14 @@
 <br />
 <h3 align="left">GitHub Contributions:</h3>
 <img src="https://github.com/Subrata3841/Subrata3841/blob/output/github-snake-dark.svg" alt="snake svg" />
+<!-- Activity Graph -->
+## 🕸️ GitHub Network Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subrata3841&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
