@@ -17,7 +17,6 @@
     alt="subrata3841" />
   </a>
 </p>
->
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -53,11 +52,11 @@
   </tr>
 </table>
 <br />
-<h3 align="left">GitHub Contributions:</h3>
+<h3 align="left">🐎 GitHub Contributions:</h3>
 <img src="https://github.com/Subrata3841/Subrata3841/blob/output/github-snake-dark.svg" alt="snake svg" />
-<!-- Activity Graph -->
-## 🕸️ GitHub Network Activity
 
+<!-- Activity Graph -->
+<h2 align="left">🕸️ GitHub Network Activity:</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subrata3841&theme=react-dark&hide_border=true&area=true" />
 </p>
