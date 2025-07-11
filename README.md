@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Innovative Software Engineer from India, passionate about building creative solutions.</h3>
 <img align="right" alt="coding" width="400" src="./coding.gif">
-<p align="left"><img src="https://komarev.com/ghpvc/?username=subrata3841&label=Profile%20views&color=0e7bc1&style=flat" alt="subrata3841" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=subrata3841&label=%20views&color=0e7bc1&style=plastic" alt="subrata3841" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Subrata3841](https://github.com/Subrata3841)
 
