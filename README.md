@@ -133,7 +133,7 @@
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=subrata3841&theme=algolia&no-bg=true&no-frame=true&column=4&title=Repositories,Commits,Experience,PullRequest" 
+    <img src="https://github-profile-trophy.vercel.app/?username=subrata3841&theme=algolia&no-bg=true&no-frame=true&column=4&title=Repositories,Commits,Experience,PullRequest,Issues" 
     alt="subrata3841" />
   </a>
 </p>
@@ -149,37 +149,46 @@
   GitHub Statistics
 </h2>
 
-<!-- GitHub Stats Table -->
-<table width="100%">
+<!-- GitHub Stats Table (Circle Top Languages, Enhanced & Attractive) -->
+<div align="center">
+
+<table>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>🔝 Top Languages</strong></h3>
-      <p align="center">
-        <a href="https://github.com/subrata3841">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata3841&show_icons=true&locale=en&layout=compact&theme=algolia" alt="subrata3841" />
-        </a>
-      </p>
+    <!-- Top Languages Donut -->
+    <td align="center" valign="top" width="350px" style="padding: 20px;">
+      <b>🔝 Top Languages</b><br>
+      <a href="https://github.com/Subrata3841">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrata3841&layout=donut-vertical&theme=algolia" 
+             alt="Top Languages Pie Chart" 
+             width="260" height="260" 
+             style="border-radius: 20px; border: 2px solid #222; box-shadow: 0 4px 24px #0001; margin: 10px 0;"/>
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>🌟 GitHub Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/subrata3841">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=subrata3841&show_icons=true&locale=en&theme=algolia" alt="subrata3841" />
-        </a>
-      </p>
+    <!-- GitHub Stats Card -->
+    <td align="center" valign="top" width="430px" style="padding: 20px;">
+      <b>🌟 GitHub Stats</b><br>
+      <a href="https://github.com/Subrata3841">
+        <img src="https://github-readme-stats.vercel.app/api?username=Subrata3841&show_icons=true&locale=en&theme=algolia" 
+             alt="Subrata3841's GitHub Stats" 
+             width="400" height="260"
+             style="border-radius: 20px; border: 2px solid #222; box-shadow: 0 4px 24px #0001; margin: 10px 0;"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3 align="center"><strong>🔥 Streak Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/subrata3841">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrata3841&theme=algolia" alt="subrata3841" />
-        </a>
-      </p>
+    <td colspan="2" align="center" style="padding-top: 8px;">
+      <b>🔥 Streak Stats</b><br>
+      <a href="https://github.com/Subrata3841">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subrata3841&theme=algolia" 
+             alt="Subrata3841's GitHub Streak"
+             width="700" height="170"
+             style="border-radius: 20px; border: 2px solid #222; box-shadow: 0 4px 24px #0001; margin-top: 10px;"/>
+      </a>
     </td>
   </tr>
 </table>
+
+</div>
 
 <!-- Animated Divider -->
 <div align="center">
