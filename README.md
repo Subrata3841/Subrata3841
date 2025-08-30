@@ -131,17 +131,17 @@
 </div>
 
 <!-- GitHub Trophies -->
-<!--<p align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=subrata3841&theme=algolia&no-bg=true&no-frame=true&column=4&title=Repositories,Commits,Experience,PullRequest,Issues" 
     alt="subrata3841" />
   </a>
-</p>-->
+</p>
 
 <!-- Animated Divider -->
-<!--<div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>-->
+</div>
 
 <!-- GitHub Statistics Section -->
 <h2 align="center">
