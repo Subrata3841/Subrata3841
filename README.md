@@ -200,16 +200,17 @@
   <img height="30" width="40" src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" style="vertical-align: middle;">
   Contribution Graph
 </h2>
-<img src="https://github.com/Subrata3841/Subrata3841/blob/output/github-snake-dark.svg" alt="snake svg" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Subrata3841/Subrata3841/output/github-snake-dark.svg" alt="snake svg" width="100%" />
+</p>
 
 <!-- GitHub Network Activity Section -->
 <h2 align="left">
   🕸️ GitHub Network Activity
 </h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subrata3841&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subrata3841&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 </p>
-
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -271,6 +272,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-<!-- Last Updated -->
-<!-- Updated: 2025-08-08 05:49:46 UTC -->
